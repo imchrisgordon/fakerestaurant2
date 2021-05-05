@@ -1,1 +1,2 @@
-# fakerestaurant2
+# fakerestaurant
+A fake restaurant website.
